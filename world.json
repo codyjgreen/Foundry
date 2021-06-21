@@ -1,0 +1,163 @@
+{
+  "name": "ghosts-of-saltmarsh-backup",
+  "title": "ghosts-of-saltmarsh-backup",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "My DDB Spells",
+      "name": "ghosts-of-saltmarsh-ddb-spells",
+      "package": "world",
+      "path": "packs/ghosts-of-saltmarsh-ddb-spells.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ghosts-of-saltmarsh-ddb-spells.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Items",
+      "name": "ghosts-of-saltmarsh-ddb-items",
+      "package": "world",
+      "path": "packs/ghosts-of-saltmarsh-ddb-items.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ghosts-of-saltmarsh-ddb-items.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Features",
+      "name": "ghosts-of-saltmarsh-ddb-features",
+      "package": "world",
+      "path": "packs/ghosts-of-saltmarsh-ddb-features.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ghosts-of-saltmarsh-ddb-features.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "My DDB Monster Features",
+      "name": "ghosts-of-saltmarsh-ddb-monster-features",
+      "package": "world",
+      "path": "packs/ghosts-of-saltmarsh-ddb-monster-features.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ghosts-of-saltmarsh-ddb-monster-features.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-ghosts-of-saltmarsh-spells",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-spells.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-spells.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-ghosts-of-saltmarsh-items",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-items.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-items.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Features",
+      "name": "ddb-ghosts-of-saltmarsh-features",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-features.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-features.db",
+      "private": false
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-ghosts-of-saltmarsh-monsters",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-monsters.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-monsters.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-ghosts-of-saltmarsh-classes",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-classes.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-classes.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-ghosts-of-saltmarsh-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-racial-traits.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-racial-traits.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-ghosts-of-saltmarsh-races",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-races.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-races.db",
+      "private": false
+    },
+    {
+      "entity": "Actor",
+      "label": "My DDB Monsters",
+      "name": "ghosts-of-saltmarsh-ddb-monsters",
+      "package": "world",
+      "path": "packs/ghosts-of-saltmarsh-ddb-monsters.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ghosts-of-saltmarsh-ddb-monsters.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-ghosts-of-saltmarsh-feats",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-feats.db",
+      "system": "dnd5e",
+      "absPath": "/forge-vtt/data/Data/worlds/ghosts-of-saltmarsh/packs/ddb-ghosts-of-saltmarsh-feats.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-ghosts-of-saltmarsh-backup-override",
+      "package": "world",
+      "path": "packs/ddb-ghosts-of-saltmarsh-backup-override.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.7",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}
